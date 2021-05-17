@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/speed-test-app/static/css/main.a5904c5e.chunk.css",
+    "main.js": "/speed-test-app/static/js/main.e7fc5542.chunk.js",
+    "main.js.map": "/speed-test-app/static/js/main.e7fc5542.chunk.js.map",
+    "runtime-main.js": "/speed-test-app/static/js/runtime-main.d770a7ca.js",
+    "runtime-main.js.map": "/speed-test-app/static/js/runtime-main.d770a7ca.js.map",
+    "static/js/2.835d5a8f.chunk.js": "/speed-test-app/static/js/2.835d5a8f.chunk.js",
+    "static/js/2.835d5a8f.chunk.js.map": "/speed-test-app/static/js/2.835d5a8f.chunk.js.map",
+    "index.html": "/speed-test-app/index.html",
+    "static/css/main.a5904c5e.chunk.css.map": "/speed-test-app/static/css/main.a5904c5e.chunk.css.map",
+    "static/js/2.835d5a8f.chunk.js.LICENSE.txt": "/speed-test-app/static/js/2.835d5a8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d770a7ca.js",
+    "static/js/2.835d5a8f.chunk.js",
+    "static/css/main.a5904c5e.chunk.css",
+    "static/js/main.e7fc5542.chunk.js"
+  ]
+}
